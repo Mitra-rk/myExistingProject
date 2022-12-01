@@ -98,6 +98,7 @@ h1 {
 }
 #coder {
   color: rgb(45, 144, 250);
+  cursor: pointer;
 }
 .code {
   margin-left: 340px;
