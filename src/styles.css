@@ -3,9 +3,10 @@
   height: 500px;
   border: solid 2px rgb(220, 220, 220);
   display: block;
-  margin: 50px auto;
+  margin: 50px auto 20px;
   border-radius: 10px;
   padding: 15px 5px;
+  /* margin-bottom: 0; */
 }
 form {
   margin-left: 5px;
@@ -94,4 +95,10 @@ h1 {
 .conditionWeek ul li {
   margin-bottom: 10px;
   font-size: 25px;
+}
+#coder {
+  color: rgb(45, 144, 250);
+}
+.code {
+  margin-left: 340px;
 }
