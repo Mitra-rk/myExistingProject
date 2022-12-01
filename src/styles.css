@@ -1,6 +1,6 @@
 .container {
   width: 600px;
-  height: 280px;
+  height: 500px;
   border: solid 2px rgb(220, 220, 220);
   display: block;
   margin: 50px auto;
@@ -81,4 +81,17 @@ h1 {
 }
 .emoji {
   font-size: 48px;
+}
+.conditionWeek {
+  display: flex;
+  margin: 0 auto;
+  text-align: center;
+}
+.conditionWeek ul {
+  padding: 10px;
+  margin: 10px;
+}
+.conditionWeek ul li {
+  margin-bottom: 10px;
+  font-size: 25px;
 }
